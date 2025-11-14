@@ -1,0 +1,1 @@
+// placeholder: OfertasViewModel.kt
