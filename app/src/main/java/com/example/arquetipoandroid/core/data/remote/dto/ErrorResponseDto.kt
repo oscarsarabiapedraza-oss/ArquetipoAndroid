@@ -1,1 +1,0 @@
-// placeholder: ErrorResponseDto.kt

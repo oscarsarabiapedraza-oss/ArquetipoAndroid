@@ -1,1 +1,0 @@
-// placeholder: PersonaEntity.kt
